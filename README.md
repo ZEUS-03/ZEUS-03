@@ -1,9 +1,9 @@
 <h1 align="center"> I'm Gautam Sharma</h1>
 <h3 align="center">A passionate Data Scientist and coding enthusiast</h3>
 
-- 🌱 I’m currently learning *Machine Learning
+- 🌱 I’m currently learning *Frontend Development
 
-- 👯 I’m looking to collaborate on *Python*
+- 👯 I’m looking to collaborate on *Frontend Development*
 
 - 💬 Ask me about *Python, Data Analysis*
 
