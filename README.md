@@ -1,7 +1,7 @@
 <h1 align="center"> Hey'ya! I'm Gautam Sharma</h1>
 <h3 align="center">A passionate Web Developerr</h3>
 
-- 🌱 I’m a *Front-end Developer with strong programming and coding skills.
+- 🌱 I’m a *Front-end Developer* with strong programming and coding skills.
 
 - 👯 I’m looking to collaborate on *Web Dev.*
 
