@@ -3,6 +3,8 @@
 
 - 🌱 I’m a *Front-end Developer* with strong programming and coding skills.
 
+- 🎯 AIM -> *MERN STACK* and DevOPs.
+
 - 👯 I’m looking to collaborate on *Web Dev.*
 
 - 💬 Ask me about *Frontend Development, Python*
