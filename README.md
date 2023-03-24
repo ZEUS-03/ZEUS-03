@@ -3,9 +3,9 @@
 
 - 🌱 I’m a *Front-end Developer with strong programming and coding skills.
 
-- 👯 I’m looking to collaborate on *Front-end development and Python*
+- 👯 I’m looking to collaborate on *Web Dev.*
 
-- 💬 Ask me about *Python, Data Analysis*
+- 💬 Ask me about *Frontend Development, Python*
 
 - 📫 How to reach me *futuristic.gautam@gmail.com*
 
