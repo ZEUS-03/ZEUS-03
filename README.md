@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Gautam Sharma</h1>
-<h3 align="center">A passionate Front-end Developer and Data Science enthusiast</h3>
+<h3 align="center">A passionate Front-end Developer</h3>
 
 - 🌱 I’m a *Front-end Developer with strong programming and coding skills.
 
