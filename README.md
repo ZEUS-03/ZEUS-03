@@ -3,7 +3,7 @@
 
 ### :smiley_cat: About me:
 - I’m a *Front-end Developer* with strong programming and coding skills.
-- Currently working as a **Software Trainee** in Sarvika Technology and a student at Suresh Gyan Vihar University.
+- Currently working as a **Software Engineer** in Sarvika Technology.
 - reach me at *futuristic.gautam@gmail.com*
 
 ⚡**Fun fact:** *Code is like humor. When you have to explain it, it’s bad.*
@@ -36,7 +36,6 @@
 
 ## Profile Github stats 🚀
 ![Gautam's github stats](https://github-readme-stats.vercel.app/api?username=ZEUS-03&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZEUS-03&theme=tokyonight)](https://git.io/streak-stats)
 ![Gautam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEUS-03&theme=tokyonight&layout=compact)
 
 
@@ -45,7 +44,7 @@
 ## Contact me : 
 
 <p align="center">
-<a href="https://www.gautamsharma.me"><img src="https://img.shields.io/badge/-Small Protfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://gautamsharma.netlify.app/"><img src="https://img.shields.io/badge/-Small Protfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/gautam-sharma33"><img src="https://img.shields.io/badge/-Connect on Lin!-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:futuristic.gautam@gmail.com"><img src="https://img.shields.io/badge/-Mail me%3F -D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/gaush33"><img src="https://img.shields.io/badge/-Connect on twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"/></a>
