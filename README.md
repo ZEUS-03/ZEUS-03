@@ -2,7 +2,7 @@
 <br>
 
 ### :smiley_cat: About me:
-- I’m a *Front-end Developer* with strong programming and coding skills.
+- I’m a *Software Engineer* with strong programming and coding skills.
 - Currently working as a **Software Engineer** in Sarvika Technology.
 - reach me at *futuristic.gautam@gmail.com*
 
